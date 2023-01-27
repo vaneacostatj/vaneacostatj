@@ -12,7 +12,7 @@ learning  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
  <br/>
 ## Ask me about :computer: 
 
-<img align="right" height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
+<img align="right" height="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 
 - **Competitive Programming**
 	- JavaScript ❤️
