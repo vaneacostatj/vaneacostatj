@@ -50,7 +50,7 @@ learning  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
  <a href="https://www.linkedin.com/in/vanessa-acosta-a95417219/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://drive.google.com/file/d/1ZVORQQoRbyj0u1h8nSlVkzwxSdcWRMct/view?usp=share_link" target="blank">
+ <a href="https://drive.google.com/drive/folders/1jWE-rygPNdE9izDdH3Bja05wPrbZYcih?usp=share_link" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.cvwizard.es/favicon-512.png" /> &nbsp; &nbsp;
  </a>
   <br/>
