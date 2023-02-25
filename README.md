@@ -12,6 +12,8 @@ learning  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
  <br/>
 ## Ask me about :computer: 
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 <img align="right" height="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 
 - **Competitive Programming**
@@ -35,8 +37,8 @@ learning  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Phyton**
-- **React native**
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br/>
   <br/>
 
